@@ -1,0 +1,8 @@
+C:\Users\htugc\source\repos\MaximumSubarray\MaximumSubarray\bin\Debug\MaximumSubarray.exe.config
+C:\Users\htugc\source\repos\MaximumSubarray\MaximumSubarray\bin\Debug\MaximumSubarray.exe
+C:\Users\htugc\source\repos\MaximumSubarray\MaximumSubarray\bin\Debug\MaximumSubarray.pdb
+C:\Users\htugc\source\repos\MaximumSubarray\MaximumSubarray\obj\Debug\MaximumSubarray.csproj.AssemblyReference.cache
+C:\Users\htugc\source\repos\MaximumSubarray\MaximumSubarray\obj\Debug\MaximumSubarray.csproj.SuggestedBindingRedirects.cache
+C:\Users\htugc\source\repos\MaximumSubarray\MaximumSubarray\obj\Debug\MaximumSubarray.csproj.CoreCompileInputs.cache
+C:\Users\htugc\source\repos\MaximumSubarray\MaximumSubarray\obj\Debug\MaximumSubarray.exe
+C:\Users\htugc\source\repos\MaximumSubarray\MaximumSubarray\obj\Debug\MaximumSubarray.pdb
